@@ -28,4 +28,5 @@ This is a beginner-level project to predict future stock prices using simple mac
 
 1. Download the repository or clone it:
    ```bash
-   git clone https://github.com/deekshitha529/your-repo-name
+   git clone https://github.com/deekshitha-sivani/stock-price-prediction
+
